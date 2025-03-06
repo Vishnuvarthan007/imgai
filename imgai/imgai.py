@@ -1,6 +1,5 @@
 import streamlit as st
 import pytesseract
-pytesseract.pytesseract.tesseract_cmd = r'C:\Users\2355389\Downloads\tesseract-ocr-w64-setup-5.5.0.20241111.exe'
 import cv2
 import pytesseract
 import networkx as nx
