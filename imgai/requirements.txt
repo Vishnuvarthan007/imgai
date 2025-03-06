@@ -1,5 +1,7 @@
 streamlit
 opencv-python-headless
+tesseract
+tesseract-ocr
 pytesseract
 networkx
 pandas
