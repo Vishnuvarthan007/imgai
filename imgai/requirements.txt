@@ -1,6 +1,6 @@
 streamlit
 opencv-python-headless
-tesseract=0.1.3
+tesseract==0.1.3
 pytesseract
 networkx
 pandas
